@@ -1,11 +1,15 @@
 # README
+The goal of this project is to create an ecommerce site in Rails.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project was created using: 
 
-Things you may want to cover:
+Ruby versions
+Rails     5.0.3
+Ruby      2.2.2
+RubyGems  2.6.8
 
-* Ruby version
+Database configuration
+*  sqlite3(development)
 
 * System dependencies
 
@@ -22,4 +26,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# paintStore
